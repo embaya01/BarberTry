@@ -1,0 +1,7 @@
+{
+  "name": "BarberTry",
+  "description": "An AI-powered app to virtually try on different haircut styles using your own selfie. Find the perfect look before your next barbershop visit.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
