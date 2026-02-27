@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5556bc4e-6046-4f43-a9de-21d000c3d9a2"
+      }
+    },
+    "android": {
+      "package": "com.embaya01.barbertry"
+    },
+    "ios": {
+      "bundleIdentifier": "com.embaya01.barbertry",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
